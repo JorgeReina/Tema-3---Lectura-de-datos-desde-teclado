@@ -2,7 +2,7 @@
 *
 *	Ejercicio 2, Conversor de euros a pesetas, los euros se introducen por teclado.
 * 
-*	Nombre del archivo: Ejercicio1.java
+*	Nombre del archivo: Ejercicio2.java
 *
 *	@author Jorge Reina Romero
 *
